@@ -31,3 +31,8 @@
 *.exe
 *.out
 *.app
+
+# IDE / Editor
+.history/
+.vscode/
+.idea/
